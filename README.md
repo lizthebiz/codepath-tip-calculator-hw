@@ -4,4 +4,4 @@ This is my completed exercise for the application to Codepath's iOS for Designer
 
 # Exercise in Action
 
-![tada gif](http://f.cl.ly/items/1P1f332R2p160B1U301N/lizdalay-tip-calc.gif)
+![tada a gif](https://github.com/lizthebiz/codepath-tip-calculator-hw/blob/master/lizdalay-tips.gif?raw=true)
